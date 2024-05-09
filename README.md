@@ -3,6 +3,7 @@
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/OC-0.9.8-blue">
+  <img src="https://img.shields.io/badge/macOS-Ventura_13.6.6-orange">
   <img src="https://img.shields.io/badge/macOS-Sonoma_14.1.1-green">
 </div>
 
@@ -17,7 +18,7 @@
 | WIFI | Realtek RTL8852AE  |
 | Ethernet  | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller  |
 | SMBIOS used  | iMac Pro (Regenerate the SMBIOS with the **same macbook model**)  |
-| MacOS Version  | MacOS Sonoma 14.1.1  |
+| MacOS Version  | MacOS Ventura 13.6.6 + Sonoma 14.1.1  |
 
 # What's Working
 
