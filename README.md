@@ -36,6 +36,7 @@
 | AppleTV+ DRM | ✅ |  |
 | Shutdown/Reboot | ✅ |   |
 | iServices | ✅ | FaceTime + Messages  |
+| Microphone | ✅ | Recently fixed after AppleALC update |
 
 # What's not Working
 
@@ -46,7 +47,6 @@
 | Wi-Fi | ❌ | RTL8522AE not supported (Using dongle instead) |
 | Bluetooth | ❌ |  |
 | AirDrop | ❌ |  |
-| Microphone | ❌ | AMD issue with AppleALC |
 
 # Bios Options
 
