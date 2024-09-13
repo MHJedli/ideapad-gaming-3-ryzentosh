@@ -18,7 +18,6 @@
 | WIFI | Realtek RTL8852AE  |
 | Ethernet  | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller  |
 | SMBIOS used  | iMac Pro (Regenerate the SMBIOS with the **same macbook model**)  |
-| MacOS Version  | MacOS Ventura 13.6.6 + Sonoma 14.1.1  |
 
 # What's Working
 
