@@ -3,7 +3,7 @@
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/OC-1.0.1-blue">
-  <img src="https://img.shields.io/badge/macOS-Ventura_13.6.7-orange">
+  <img src="https://img.shields.io/badge/macOS-Ventura_13.6.9-orange">
   <img src="https://img.shields.io/badge/macOS-Sonoma_14.1.1-green">
 </div>
 
@@ -73,11 +73,6 @@
 
 *   Sometimes the System won't boot so you need to reboot multiple times if needed. A solution ,I think, is<br>
     to plug in a mouse. ( tbh I have no clue why and it is what it is )
-
-*   When doing a minor update (or a major one if you choose to ) :
-    <br>1- Remove NootedRed.kext temporarily
-    <br>2- Update your System
-    <br>3- After the system booted after your update, Restore NootedRed.kext to its place
 
 *   Increase your VRAM size for better and smooth experience (512 MB of VRAM can cause stutters)
 
