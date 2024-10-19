@@ -2,7 +2,7 @@
 ![Screenshot 2024-03-04 at 11 15 59 PM](https://github.com/Mouadh-Jedli/ideapad-gaming-3-ryzentosh/assets/53920740/b4e5eba3-fc70-442b-9db0-631a83ccb743)
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/OC-1.0.1-blue">
+  <img src="https://img.shields.io/badge/OC-1.0.2-blue">
   <img src="https://img.shields.io/badge/macOS-Ventura_13.7-orange">
   <img src="https://img.shields.io/badge/macOS-Sonoma_14.1.1-green">
 </div>
