@@ -69,10 +69,6 @@
   <br>- VoodooPS2Controller.kext
 
 *   Sometimes the keyboard doesn't work from boot to boot, so a reboot is required from time to time.<br>
-    When booting, press some keys. ( I feel it helps :> )
-
-*   Sometimes the System won't boot so you need to reboot multiple times if needed. A solution ,I think, is<br>
-    to plug in a mouse. ( tbh I have no clue why and it is what it is )
 
 *   Increase your VRAM size for better and smooth experience (512 MB of VRAM can cause stutters)
 
