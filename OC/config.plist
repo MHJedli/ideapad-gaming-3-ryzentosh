@@ -1508,7 +1508,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
-			<string>j223</string>
+			<string>Disabled</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -1574,7 +1574,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>alcid=11 -v -wegnoegpu keepsyms=1 debug=0x100 -vi2c-force-polling</string>
+				<string>-v alcid=11 revpatch=sbvmm -wegnoegpu keepsyms=1 debug=0x100 -vi2c-force-polling</string>
 				<key>csr-active-config</key>
 				<data>hwcAAA==</data>
 				<key>run-efi-updater</key>
