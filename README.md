@@ -1,5 +1,5 @@
 # Ryzentosh EFI for Lenovo Ideapad gaming 3 (15ACH6)
-![Screenshot 2024-03-04 at 11 15 59 PM](https://github.com/Mouadh-Jedli/ideapad-gaming-3-ryzentosh/assets/53920740/b4e5eba3-fc70-442b-9db0-631a83ccb743)
+![Screenshot 2024-11-04 at 10 45 41 AM](https://github.com/user-attachments/assets/fc4650e1-cd23-4370-b0b3-c243daa4199d)
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/OC-1.0.2-blue">
@@ -53,13 +53,18 @@
 *   Boot Type : **UEFI**
 
 # Screenshots
+*  Flutter Development with IOS Simulator
 
-![Screenshot 2024-03-04 at 9 53 52 PM](https://github.com/Mouadh-Jedli/ideapad-gaming-3-ryzentosh/assets/53920740/e462de51-04b2-465e-aabc-f7e8b0e86be2)
-<br>
-![Screenshot 2024-03-04 at 9 54 56 PM](https://github.com/Mouadh-Jedli/ideapad-gaming-3-ryzentosh/assets/53920740/b6f84347-185f-4c2c-971d-03408263283d)
-<br>
-![Screenshot 2024-03-04 at 9 56 02 PM](https://github.com/Mouadh-Jedli/ideapad-gaming-3-ryzentosh/assets/53920740/497a6a2c-ac15-48f6-9c81-409d0541b8aa)
+![Screenshot 2024-11-04 at 10 47 46 AM](https://github.com/user-attachments/assets/34cb5e51-a67d-4775-9153-356339491347)
 
+<br>
+
+![Screenshot 2024-11-04 at 10 48 01 AM](https://github.com/user-attachments/assets/c2bb0256-249f-4bbd-be2e-187d13993842)
+
+<br>
+*  Install Oracle <b>VirtualBox 6.1</b> to be able to use VMs
+
+![Screenshot 2024-11-04 at 10 48 41 AM](https://github.com/user-attachments/assets/0b13e2b9-de1b-4e90-90f7-bb231c9b8f9b)
 
 # VERY IMPORTANT !
 
