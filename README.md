@@ -68,11 +68,6 @@
 
 # VERY IMPORTANT !
 
-*   **DON'T** update these kext because it **WILL** lead to unfunctional TrackPad :
-  <br>- VoodooI2C.kext
-  <br>- VoodooI2CHID.kext
-  <br>- VoodooPS2Controller.kext
-
 *   Sometimes the keyboard doesn't work from boot to boot, so a reboot is required from time to time.<br>
 
 *   Increase your VRAM size for better and smooth experience (512 MB of VRAM can cause stutters)
