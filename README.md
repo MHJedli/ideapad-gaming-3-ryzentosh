@@ -23,18 +23,18 @@
 
 | Item | Status | Notes |
 | --- | --- | --- |
-| CPU | ✅ |   |
+| CPU | ✅ | AMD Ryzen 5 5600H |
 | IGPU | ✅ | NootedRed.kext |
 | Brightness Control | ✅ | Lunar App |
-| HDMI A/V out | ✅ |   |
-| USB | ✅ |  |
+| HDMI A/V out | ✅ | HDMI Port Wired to IGPU |
+| USB | ✅ | USB Remapped with USBMap |
 | Keyboard | ✅ | VoodooPS2Controller.kext |
-| Audio | ✅ | AppleALC kext working with layout-id 11 |
+| Audio | ✅ | AppleALC with layout-id=11 |
 | Trackpad | ✅ | VoodooI2C.kext |
 | Ethernet | ✅ | RealtekRTL8111.kext |
 | AppleTV+ DRM | ✅ |  |
 | Shutdown/Reboot | ✅ |   |
-| iServices | ✅ | FaceTime + Messages  |
+| iServices | ✅ |  |
 | Microphone | ✅ | Recently fixed after AppleALC update |
 
 # What's not Working
@@ -42,8 +42,8 @@
 | Item | Status | Notes |
 | --- | --- | --- |
 | Sleep | ❓ |  |
-| DGPU | ❌ | RTX 3000 series were never supported |
-| Wi-Fi | ❌ | RTL8522AE not supported (Using dongle instead) |
+| DGPU | ❌ | RTX 3050Ti is NOT supported |
+| Wi-Fi | ❌ | RTL8522AE not supported |
 | Bluetooth | ❌ |  |
 | AirDrop | ❌ |  |
 
