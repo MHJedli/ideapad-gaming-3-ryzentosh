@@ -17,7 +17,7 @@
 | SSD | WDC PC SN530 - 512GB  |
 | WIFI | Realtek RTL8852AE  |
 | Ethernet  | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller  |
-| SMBIOS used  | iMac Pro (Regenerate the SMBIOS with the **same macbook model**)  |
+| SMBIOS used  | MacBookPro 16,3 (Regenerate the SMBIOS with the **same macbook model**)  |
 
 # What's Working
 
@@ -25,7 +25,7 @@
 | --- | --- | --- |
 | CPU | ✅ | AMD Ryzen 5 5600H |
 | IGPU | ✅ | NootedRed.kext |
-| Brightness Control | ✅ | Lunar App |
+| Brightness Control | ✅ | Native Keys (F5/F6) |
 | HDMI A/V out | ✅ | HDMI Port Wired to IGPU |
 | USB | ✅ | USB Remapped with USBMap |
 | Keyboard | ✅ | VoodooPS2Controller.kext |
@@ -68,7 +68,7 @@
 
 # VERY IMPORTANT !
 
-*   Sometimes the keyboard doesn't work from boot to boot, so a reboot is required from time to time.<br>
+*   Verbose Mode Disabled by Default
 
 *   Increase your VRAM size for better and smooth experience (512 MB of VRAM can cause stutters)
 
