@@ -4,7 +4,7 @@
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/OC-1.0.3-blue">
   <img src="https://img.shields.io/badge/macOS-Ventura_13.7-orange">
-  <img src="https://img.shields.io/badge/macOS-Sonoma_14.7.1-green">
+  <img src="https://img.shields.io/badge/macOS-Sonoma_14.7.4-green">
 </div>
 
 # Specifications
