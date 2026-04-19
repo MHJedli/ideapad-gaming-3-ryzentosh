@@ -3,10 +3,10 @@
 
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/OC-1.0.6-blue">
+  <img src="https://img.shields.io/badge/OC-1.0.7-blue">
   <img src="https://img.shields.io/badge/macOS-Ventura_13.7-orange">
   <img src="https://img.shields.io/badge/macOS-Sonoma_14.8.1-green">
-  <img src="https://img.shields.io/badge/macOS-Sequoia_15.7.2-brightgreen">
+  <img src="https://img.shields.io/badge/macOS-Sequoia_15.7.5-brightgreen">
 </div>
 
 # Specifications
