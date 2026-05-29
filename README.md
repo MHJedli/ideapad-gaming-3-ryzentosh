@@ -1,12 +1,10 @@
 # Ryzentosh EFI for Lenovo Ideapad gaming 3 (15ACH6)
-<img width="1920" height="1080" alt="Screenshot 2025-11-30 at 6 50 33 PM" src="https://github.com/user-attachments/assets/68970d56-6fa8-48ba-b3c4-baf98fc46391" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-29 at 1 53 24 PM" src="https://github.com/user-attachments/assets/6dccc8b1-5095-4c44-b4c9-392bbb847ae4" />
 
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/OC-1.0.7-blue">
-  <img src="https://img.shields.io/badge/macOS-Ventura_13.7-orange">
-  <img src="https://img.shields.io/badge/macOS-Sonoma_14.8.1-green">
-  <img src="https://img.shields.io/badge/macOS-Sequoia_15.7.7-brightgreen">
+  <img src="https://img.shields.io/badge/macOS-Tahoe_26.5-blue">
 </div>
 
 # Specifications
@@ -19,25 +17,25 @@
 | SSD | WDC PC SN530 - 512GB  |
 | WIFI | Realtek RTL8852AE  |
 | Ethernet  | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller  |
-| SMBIOS used  | MacBookPro 16,3 (Regenerate the SMBIOS with the **same macbook model**)  |
+| SMBIOS used  | MacBookPro 16,2 (Regenerate the SMBIOS with the **same macbook model**)  |
 
 # What's Working
 
 | Item | Status | Notes |
 | --- | --- | --- |
-| CPU | ✅ | AMD Ryzen 5 5600H |
+| CPU | ✅ | AMD Ryzen 5 5600H using latest AMD Vanilla patches |
 | IGPU | ✅ | NootedRed.kext |
 | Brightness Control | ✅ | Native Keys (F5/F6) |
 | HDMI A/V out | ✅ | HDMI Port Wired to IGPU |
-| USB | ✅ | USB Remapped with USBMap |
+| USB | ✅ | Currently Using USBInjectAll.kext |
 | Keyboard | ✅ | VoodooPS2Controller.kext |
-| Audio | ✅ | AppleALC with layout-id=11 |
+| Audio | ❌ | AppleHDA requires external patches |
 | Trackpad | ✅ | VoodooI2C.kext |
 | Ethernet | ✅ | RealtekRTL8111.kext |
 | AppleTV+ DRM | ✅ |  |
 | Shutdown/Reboot | ✅ |   |
 | iServices | ✅ |  |
-| Microphone | ✅ | Recently fixed after AppleALC update |
+| Microphone | ❌ |  |
 
 # What's not Working
 
@@ -54,19 +52,6 @@
 *   Secure Boot : **Disabled**
 *   Boot Type : **UEFI**
 
-# Screenshots
-*  Flutter Development with IOS Simulator
-
-![Screenshot 2024-11-04 at 10 47 46 AM](https://github.com/user-attachments/assets/34cb5e51-a67d-4775-9153-356339491347)
-
-<br>
-
-![Screenshot 2024-11-04 at 10 48 01 AM](https://github.com/user-attachments/assets/c2bb0256-249f-4bbd-be2e-187d13993842)
-
-<br>
-*  Install Oracle <b>VirtualBox 6.1</b> to be able to use VMs
-
-![Screenshot 2024-11-04 at 10 48 41 AM](https://github.com/user-attachments/assets/0b13e2b9-de1b-4e90-90f7-bb231c9b8f9b)
 
 # VERY IMPORTANT !
 
