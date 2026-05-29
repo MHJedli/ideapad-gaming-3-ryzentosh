@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/macOS-Sequoia_15.7.7-brightgreen">
 </div>
 
+# NOTE:
+for macOS tahoe, check the [second branch](https://github.com/MHJedli/ideapad-gaming-3-ryzentosh/tree/macOs-Tahoe)
+
 # Specifications
 
 | Item  | Info  |
@@ -53,6 +56,7 @@
 
 *   Secure Boot : **Disabled**
 *   Boot Type : **UEFI**
+
 
 # Screenshots
 *  Flutter Development with IOS Simulator
