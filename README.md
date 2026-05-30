@@ -23,25 +23,23 @@
 
 | Item | Status | Notes |
 | --- | --- | --- |
-| CPU | ✅ | AMD Ryzen 5 5600H using latest AMD Vanilla patches |
+| CPU | ✅ | Using latest AMD Vanilla patches |
 | IGPU | ✅ | NootedRed.kext |
 | Brightness Control | ✅ | Native Keys (F5/F6) |
-| HDMI A/V out | ✅ | HDMI Port Wired to IGPU |
 | USB | ✅ | Currently Using USBInjectAll.kext |
 | Keyboard | ✅ | VoodooPS2Controller.kext |
-| Audio | ❌ | AppleHDA requires external patches |
-| Trackpad | ✅ | VoodooI2C.kext |
-| Ethernet | ✅ | RealtekRTL8111.kext |
-| AppleTV+ DRM | ✅ |  |
-| Shutdown/Reboot | ✅ |   |
-| iServices | ✅ |  |
+| Audio | ❌ | AppleHDA missing, requires external patches |
 | Microphone | ❌ |  |
+| Trackpad | ✅ | VoodooI2C.kext |
+| Ethernet | ✅ | RealtekRTL8111.kext [**v2.4.2**](https://github.com/Mieze/RTL8111_driver_for_OS_X/issues/90) |
+| Shutdown/Reboot | ✅ |   |
 
 # What's not Working
 
 | Item | Status | Notes |
 | --- | --- | --- |
-| Sleep | ❓ |  |
+| Sleep | ❓ | |
+| HDMI A/V out | ❓ | Not Tested Yet |
 | DGPU | ❌ | RTX 3050Ti is NOT supported |
 | Wi-Fi | ❌ | RTL8522AE not supported |
 | Bluetooth | ❌ |  |
