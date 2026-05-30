@@ -32,22 +32,20 @@ for macOS tahoe, check the [second branch](https://github.com/MHJedli/ideapad-ga
 | IGPU | ✅ | NootedRed.kext |
 | Brightness Control | ✅ | Native Keys (F5/F6) |
 | HDMI A/V out | ✅ | HDMI Port Wired to IGPU |
-| USB | ✅ | USB Remapped with USBMap |
+| USB | ✅ | Mapped with USBMap |
 | Keyboard | ✅ | VoodooPS2Controller.kext |
 | Audio | ✅ | AppleALC with layout-id=11 |
 | Trackpad | ✅ | VoodooI2C.kext |
-| Ethernet | ✅ | RealtekRTL8111.kext |
-| AppleTV+ DRM | ✅ |  |
-| Shutdown/Reboot | ✅ |   |
-| iServices | ✅ |  |
-| Microphone | ✅ | Recently fixed after AppleALC update |
+| Ethernet | ✅ | RealtekRTL8111.kext [**v2.4.2**](https://github.com/Mieze/RTL8111_driver_for_OS_X/issues/90) |
+| Shutdown/Reboot | ✅ |  |
+| Microphone | ✅ |  |
 
 # What's not Working
 
 | Item | Status | Notes |
 | --- | --- | --- |
-| Sleep | ❓ |  |
-| DGPU | ❌ | RTX 3050Ti is NOT supported |
+| Sleep | ❌ |  |
+| DGPU | ❌ | RTX 3050 Ti is NOT supported |
 | Wi-Fi | ❌ | RTL8522AE not supported |
 | Bluetooth | ❌ |  |
 | AirDrop | ❌ |  |
