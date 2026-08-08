@@ -70,6 +70,9 @@ for macOS tahoe, check the [second branch](https://github.com/MHJedli/ideapad-ga
 
 ![Screenshot 2024-11-04 at 10 48 41 AM](https://github.com/user-attachments/assets/0b13e2b9-de1b-4e90-90f7-bb231c9b8f9b)
 
+>[!note]
+>For Macos Sequoia, run VirtualBox with **sudo** to be able to use it
+
 # VERY IMPORTANT !
 
 *   Verbose Mode Disabled by Default
