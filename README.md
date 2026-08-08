@@ -34,6 +34,7 @@
 | USB WIFI Dongle | ✅ | Supported TL-WN Model From [chris1111 Tahoe guide](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/blob/master/Usage-macOS-Tahoe.md) |
 | Shutdown/Reboot | ✅ |   |
 
+
 # What's not Working
 
 | Item | Status | Notes |
@@ -42,6 +43,11 @@
 | DGPU | ❌ | RTX 3050Ti is NOT supported |
 | Built-In Wi-Fi + Bluetooth | ❌ | RTL8522AE not supported |
 | AirDrop | ❌ |  |
+| Phone Detection | ❌ | When Applying the root patches |
+
+>[!important]
+>Be aware that when applying the root patches, MacOS will **NOT** be able to detect your phones devices (Android/iOS)<br>
+>**You have been warned !**
 
 # Bios Options
 
