@@ -1,6 +1,6 @@
 # Ryzentosh EFI for Lenovo Ideapad gaming 3 (15ACH6)
-<img width="1920" height="1080" alt="Screenshot 2025-11-30 at 6 50 33 PM" src="https://github.com/user-attachments/assets/68970d56-6fa8-48ba-b3c4-baf98fc46391" />
 
+<img width="1600" height="900" alt="Screenshot 2026-10-07 at 11 12 10 AM" src="https://github.com/user-attachments/assets/68741a6d-eba8-4aba-9b97-96570a30ee09" />
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/OC-1.0.8-blue">
