@@ -1,12 +1,11 @@
 # Ryzentosh EFI for Lenovo Ideapad gaming 3 (15ACH6)
-<img width="1920" height="1080" alt="Screenshot 2025-11-30 at 6 50 33 PM" src="https://github.com/user-attachments/assets/68970d56-6fa8-48ba-b3c4-baf98fc46391" />
-
+<img width="1600" height="900" alt="Screenshot 2026-10-14 at 11 14 26 AM" src="https://github.com/user-attachments/assets/52c9296c-c771-4edd-821c-d2b01f5aef33" />
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/OC-1.0.8-blue">
   <img src="https://img.shields.io/badge/macOS-Ventura_13.7-orange">
   <img src="https://img.shields.io/badge/macOS-Sonoma_14.8.1-green">
-  <img src="https://img.shields.io/badge/macOS-Sequoia_15.7.8-brightgreen">
+  <img src="https://img.shields.io/badge/macOS-Sequoia_15.8.1-brightgreen">
 </div>
 
 # NOTE:
