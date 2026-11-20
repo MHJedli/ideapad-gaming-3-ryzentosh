@@ -1,5 +1,6 @@
 # Ryzentosh EFI for Lenovo Ideapad gaming 3 (15ACH6)
-<img width="1600" height="900" alt="Screenshot 2026-10-14 at 11 14 26 AM" src="https://github.com/user-attachments/assets/52c9296c-c771-4edd-821c-d2b01f5aef33" />
+<img width="1600" height="900" alt="Screenshot 2026-11-20 at 1 09 19 PM" src="https://github.com/user-attachments/assets/6b92048c-074d-430a-a331-fa6b6cbfcf8d" />
+
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/OC-1.0.8-blue">
@@ -36,6 +37,8 @@ for macOS tahoe, check the [second branch](https://github.com/MHJedli/ideapad-ga
 | Audio | ✅ | AppleALC with layout-id=11 |
 | Trackpad | ✅ | VoodooI2C.kext |
 | Ethernet | ✅ | RealtekRTL8111.kext [**v2.4.2**](https://github.com/Mieze/RTL8111_driver_for_OS_X/issues/90) |
+| Wi-Fi | ✅ | AirPort_RTW89.kext [v0.7.0](https://github.com/FranciumOS-org/Airport_RTW89) |
+| Bluetooth | ✅ | RealtekBluetoothFirmware [v1.0.2](https://github.com/thegwchr/RealtekBluetoothFirmware) |
 | Shutdown/Reboot | ✅ |  |
 | Microphone | ✅ |  |
 
@@ -45,8 +48,6 @@ for macOS tahoe, check the [second branch](https://github.com/MHJedli/ideapad-ga
 | --- | --- | --- |
 | Sleep | ❌ |  |
 | DGPU | ❌ | RTX 3050 Ti is NOT supported |
-| Wi-Fi | ❌ | RTL8522AE not supported |
-| Bluetooth | ❌ |  |
 | AirDrop | ❌ |  |
 
 # Bios Options
